@@ -5,7 +5,7 @@ I’m an operations leader transitioning into cloud and technology, focused on b
 
 Who I Am
 
-Active National Guard Staff Officer (S3 Operations & S4 Logistics)
+An active National Guard Staff Officer (S3 Operations & S4 Logistics)
 Operations Area Manager II at Amazon
 AWS Certified: Cloud Practitioner & Solutions Architect Associate
 
