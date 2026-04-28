@@ -30,4 +30,4 @@ What You Can Expect From Me
 Structured, mission-focused problem solving
 Data-driven decision making
 Strong ownership and execution discipline
-Ability to translate complex operational challenges into a scalable cloud solution
+Ability to translate complex operational challenges into a scalable cloud solution.
